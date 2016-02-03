@@ -23,5 +23,6 @@
         android:text="It Is A Button!"
         android:id="@+id/button"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:background="#2db1aa" />
 </RelativeLayout>
